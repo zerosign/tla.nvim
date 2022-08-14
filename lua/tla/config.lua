@@ -1,4 +1,3 @@
-local Path = require("plenary.path")
 local utils = require("tla.utils")
 
 local config = {
